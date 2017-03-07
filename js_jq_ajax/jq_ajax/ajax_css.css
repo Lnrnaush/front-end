@@ -1,0 +1,15 @@
+#show_time
+{
+    margin: auto;
+    border: 1px black solid;
+    width: 500px;
+    height: 150px;
+}
+
+#time
+{
+    border: 1px red solid;
+    width: 200px;
+    height: 50px;
+    margin-top: 10px;
+}
