@@ -14,7 +14,8 @@ function useAjax()
             (
                 {
                     type: "GET",
-                    url: "ajax_php.php" +"?refresh="+ Math.random(),
+                    url: "ajax_php.php?refresh=",
+                    data: Math.random(),
                     dataType: "text",
                     success: function(data)
                     {
