@@ -1,0 +1,32 @@
+#content
+{
+    font-size: 24px;
+}
+
+#tbl
+{
+    border: 1px black solid;
+}
+
+td
+{
+    border: 2px black solid;
+    text-align: center;
+    height: 40px;
+    width: 280px;
+}
+
+a
+{
+    text-decoration: none;
+    color: red;
+}
+
+input
+{
+    text-align: center;
+    height: 37px;
+    width: 277px;
+    border: 0px;
+    font-size: 24px;
+}
